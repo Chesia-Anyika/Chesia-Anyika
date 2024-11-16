@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Chesia! (She/Her)
+## 👋 Hi, I'm Chesia!
 
 - 🧠 **Data Science and Analytics Student (DSA)** | Based in **Nairobi** 
 - 🎓 Studying at **United States International University - Africa** (2022–2025)    
