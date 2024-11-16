@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Chesia!
 
-- 🧠 **Data Science and Analytics Student (DSA)** | Based in **Nairobi** 
+- 🧠 **Data Science and Analytics Student (DSA)** 
 - 🎓 Studying at **United States International University - Africa** (2022–2025)    
 - 🤖 Keen interest in **Machine Learning** and **AI**  
 - 🌍 Passionate about **bridging gaps** through technology  
